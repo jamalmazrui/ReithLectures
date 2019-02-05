@@ -4,7 +4,7 @@
 Distributed by his son, Jamal Mazrui, on February 4, 2019\
 Licensed as [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0)
 
-For many years, the BBC has produced a flagship series of prepared talks by a major academic figure called the [Reith Lectures](https://en.wikipedia.org/wiki/Reith_Lectures).  In 1979, Professor Ali Mazrui was invited to speak on "The African Condition."  This project is a downloadable set of these lectures as audio files and transcripts.
+For many years, the BBC has produced a flagship series of prepared talks by a major academic figure called the [Reith Lectures](https://en.wikipedia.org/wiki/Reith_Lectures) -- inaugurated in 1948 with Bertrand Russell.  In 1979, Professor Ali Mazrui was invited to speak on "The African Condition."  This project is a downloadable set of these lectures as audio files and written transcripts.
 
 *The African Condition* was a series of 6 episodes on [BBC Radio](https://www.bbc.co.uk/programmes/p00gq1wn).  Each episode may be played individually from this web page:
 
